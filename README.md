@@ -1,7 +1,3 @@
-Here’s the updated README for your COVID-19 Data Analytics project based on the contents of the latest upload:
-
----
-
 # COVID-19 Data Analytics Project
 
 This project involves a comprehensive analysis of COVID-19 datasets to explore trends, perform data cleaning, and create predictive models for understanding the pandemic's dynamics and impacts. The analysis is focused on deriving insights from public health data using statistical and machine learning approaches.
